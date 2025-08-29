@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: vanakkam-world
-        image: tomcat:latest
+        image: cubensquare/vanakkam-world:latest
         ports:
         - containerPort: 8080
