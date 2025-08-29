@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: vanakkam-world
-        image: soorya8docker/testnode:latest
+        image: tomcat:latest
         ports:
         - containerPort: 8080
