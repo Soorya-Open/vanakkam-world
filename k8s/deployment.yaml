@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: vanakkam-world
-        image: soorya8docker/nginx_tag-image:latest
+        image: cubensquare/vanakkam-world:latest
         ports:
         - containerPort: 8080
