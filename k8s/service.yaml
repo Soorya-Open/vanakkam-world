@@ -7,6 +7,6 @@ spec:
     app: vanakkam-world
   ports:
   - protocol: TCP
-    port: 80
+    port: 81
     targetPort: 8080
   type: NodePort
